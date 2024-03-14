@@ -1,0 +1,2 @@
+publish_pointcloud-master
+-DCATKIN_DEVEL_PREFIX=/home/jian/Documents/slamlearn/roswoekspace_point2octomap/devel -DCMAKE_INSTALL_PREFIX=/home/jian/Documents/slamlearn/roswoekspace_point2octomap/install -G Unix Makefiles

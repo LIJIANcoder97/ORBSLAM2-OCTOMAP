@@ -1,0 +1,8 @@
+prefix=/home/jian/Documents/slamlearn/roswoekspace_point2octomap/install
+
+Name: publish_pointcloud
+Description: Description of publish_pointcloud
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
